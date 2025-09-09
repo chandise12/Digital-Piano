@@ -1,0 +1,1 @@
+This project uses an array simulating a sine wave along with the SysTick timer at given frequencies to play various notes. Later on a stucture for music and another timer was implemented to play songs.
