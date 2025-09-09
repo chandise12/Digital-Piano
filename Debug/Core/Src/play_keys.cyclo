@@ -1,0 +1,4 @@
+../Drivers/CMSIS/Include/core_cm4.h:1814:22:__NVIC_SetPriority	2
+../Drivers/CMSIS/Include/core_cm4.h:2022:26:SysTick_Config	2
+../Core/Src/play_keys.c:14:6:Piano_In	9
+../Core/Src/play_keys.c:66:6:DAC_OUT	2
